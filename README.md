@@ -22,11 +22,13 @@ Cells(Rows.Count, "A") goes to the bottom cell in column A, which may extend pas
  5.Create a for loop to initialize TickerVolumes<br/>
  6.Create a for loop to loopover all the rows ,i= 2 to RowCount<br/>
  7.Calculate the tickerVolumes<br/>
- 8.Write if -then to check the current row is the first row with the selected "tickerIndex""tickerStarting price",<br/>
-   similarly another if- then to check the last row for tickerEndingPrice ,<br/>
- 9. Create a for loop to loop through arrays to output "ticker","Total Daily Volume"and "Return"<br/>
- 
- #  Result Analysis<br/>
+  8.Write if -then to check the current row is the first row with the selected "tickerIndex""tickerStarting price",<br/>
+   similarly another if- then to check the last row for tickerEndingPrice <br/>
+   9.Create a for loop to loop through arrays to output "ticker","Total Daily Volume"and "Return"<br/>
+ 10.https://github.com/ramyasnl/VBA-Deliverable/blob/main/2021-02-15%20(2).png <br/>
+   
+   
+   #  Result Analysis<br/>
 https://github.com/ramyasnl/VBA-Deliverable/blob/main/2021-02-14%20(2).png<br/>
 https://github.com/ramyasnl/VBA-Deliverable/blob/main/2021-02-14%20(1).png<br/>
 ##In the year 2017<br/>

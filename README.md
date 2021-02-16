@@ -27,10 +27,10 @@ Cells(Rows.Count, "A") goes to the bottom cell in column A, which may extend pas
  9. Create a for loop to loop through arrays to output "ticker","Total Daily Volume"and "Return"<br/>
  
  #  Result Analysis<br/>
-
+https://github.com/ramyasnl/VBA-Deliverable/blob/main/2021-02-14%20(2).png<br/>
+https://github.com/ramyasnl/VBA-Deliverable/blob/main/2021-02-14%20(1).png<br/>
 ##In the year 2017<br/>
 The ticker TERP has the least return which is -7.2% while DQ has the maximum return 199.4% <br/>
-https://github.com/ramyasnl/VBA-Deliverable/blob/main/2021-02-14%20(1).png
 ##In the year 2018<br/>
 The ticker RUN has the maximum return of -39.7% while DQ has the minimum of -63%<br/>
 ##Refactoring<br/>
